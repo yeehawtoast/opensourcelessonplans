@@ -14,7 +14,8 @@ Standards are the national and/or state-level teaching standards that instructor
 ## Lesson Objective
 Also known as objectives, TwW's are a 1 sentence introduction to the day's subject. It should be short and simple enough to fit in a 10-20 minute lesson while not overcomplicating the subject for students. Remember: the KISS principle applies to education too!
 
-*Here are some reccomended additions that you can use that I will use as well in my lesson plans. Your methodologies and teaching philosophy may vary*
+
+### *Below are some reccomended additions that you can use that I will use as well in my lesson plans. Your methodologies and teaching philosophies may vary*
 ## Guiding Questions
 Guiding questions are the discussion questions we can use to help students grasp the TwW.
 
