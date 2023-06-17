@@ -11,13 +11,14 @@ All lessons should be formatted in the following way:
 ## Standards
 Standards are the national and/or state-level teaching standards that instructors must meet in order for the class to count for credit. Each lesson should meet either 1 or more standards for your state/nations education agency/department/ministry/etc. Rather than listed each standard word for word, I will list the section and reference so I'm not needing to state each standard word for for word.
 
-## "Today we Will" 
+## Lesson Objective
 Also known as objectives, TwW's are a 1 sentence introduction to the day's subject. It should be short and simple enough to fit in a 10-20 minute lesson while not overcomplicating the subject for students. Remember: the KISS principle applies to education too!
 
+*Here are some reccomended additions that you can use that I will use as well in my lesson plans. Your methodologies and teaching philosophy may vary*
 ## Guiding Questions
 Guiding questions are the discussion questions we can use to help students grasp the TwW.
 
-## Instruction time (using the I do/We do/You do format)
+## Instruction time
 I do: This is your time to explain the concept.
 
 We do: This is where you and the students work on problems together. You transition from demonstrating the idea to having students solving the problem set collectively as a class
