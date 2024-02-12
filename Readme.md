@@ -1,3 +1,7 @@
+#UPDATE 
+Recently I was hired to be a software developer and have spent the last 8 months working that position and settling into some new life roles. As a result, this project has languished, however I do hope to continue to provide what lessons plans I had as a benefit to other teachers. Also, please feel free to check out the code, add your own lesson plans, what standards of education they cover (IE, I taught in Texas, so we use the TEK Standards) and what standard each lesson covers. It is tedious, but hopefully moving forward I hope to have a huge repo of lesson plans for new or seasoned teachers.
+
+
 A Complilation of all of my lesson plans from the past two years. While there are many free resourcess for learners, there are not quite as many for teachers who work educate young and new students in computer science. While each student learns in their own way, lessons for computer science should follow these principles:
 
 -- They should be project based. Evience suggests that at least for computer science, guided projects can help shape a student's understanding far better than classic "quiz and lecture" methodologies. This isn't so say that you should provide quizzes, in fact using a combination of quizzes and projects can help make sure students fully grasp concepts that otherwise they may not have.
